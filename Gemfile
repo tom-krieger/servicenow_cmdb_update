@@ -1,0 +1,15 @@
+source 'https://rubygems.org'
+
+gem "rest-client"
+gem "nokogiri"
+gem "base64"
+gem "optparse"
+gem "ostruct"
+gem "yaml"
+gem "open-uri"
+gem "uri"
+gem "json"
+gem "mime-types"
+gem "netrc"
+gem "http-accept"
+gem "http-cookie"

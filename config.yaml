@@ -1,0 +1,13 @@
+---
+debug: false
+puppetdb:
+  url: 'http://localhost:8080/pdb/query/v4'
+servicenow:
+  url: 'https://<your servicenow instance>/api/now'
+  username: '<servienow user>'
+  password: '<servicenow password>'
+  vmware_vm_id: 804ea0781bcc20108fe2ed3abc4bcb7a
+syslog:
+  log_to_syslog: false
+  facility: daemon
+
